@@ -16,7 +16,7 @@ from mysql.connector import Error
 # ── Connection settings ──────────────────────────────────────────────────────
 HOST     = "localhost"
 USER     = "root"          # change if needed
-PASSWORD = "Cro0klyn26!"              # change if needed
+PASSWORD = ""              # change if needed
 DATABASE = "Outdoor_Adventure"
 # ─────────────────────────────────────────────────────────────────────────────
 
